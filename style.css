@@ -1,0 +1,13 @@
+.check{
+    color:rgb(192, 242, 231);
+    text-align: center;
+    font-size: 200%;
+    font-family:serif;
+}
+.parent{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 6px;
+ 
+
+}
